@@ -7,7 +7,7 @@ https://forum.cfx.re/t/f1-loading-screen-v4/4828328
 **SOON**
 
 # How to install:
-Move folder # f1-loading-screen-v4_XMAS_V1 for folder resources and open server.cfg
+Move folder f1-loading-screen-v4_XMAS_V1 for folder resources and open server.cfg
 
 ensure f1-loading-screen-v4_XMAS_V1
 
